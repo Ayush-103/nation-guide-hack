@@ -1,0 +1,201 @@
+id,name,type,description,apply_link,state,area,age_group,income_bracket,occupation,gender,social_category
+1,PM Kisan Samman Nidhi (PM-KISAN),Agriculture,Income support of Rs. 6000 per year to eligible farmers through Direct Benefit Transfer,https://pmkisan.gov.in/,All States,Rural,18-60 years,Small and marginal farmers,Farmer,Both,All
+2,Ayushman Bharat PM-JAY,Healthcare,Largest health assurance scheme providing Rs. 5 lakh health cover per family per year,https://pmjay.gov.in/,All States except Delhi Odisha West Bengal,Both,All ages,Below Rs. 5 lakh annually,All,Both,All
+3,PM Awas Yojana Urban (PMAY-U),Housing,Housing scheme for urban areas providing subsidy for EWS/LIG/MIG categories,https://pmaymis.gov.in/,All States,Urban,18 years and above,EWS: Up to Rs. 3 lakh LIG: Rs. 3-6 lakh MIG-I: Rs. 6-12 lakh MIG-II: Rs. 12-18 lakh,All,Both,All
+4,PM Awas Yojana Gramin (PMAY-G),Housing,Rural housing scheme providing financial assistance for house construction,https://pmayg.nic.in/,All States,Rural,18 years and above,Below Poverty Line,All,Both,All
+5,PM Jan Dhan Yojana (PMJDY),Financial Inclusion,Zero balance bank accounts with insurance and overdraft facility,https://pmjdy.gov.in/,All States,Both,18-59 years,All income groups,All,Both,All
+6,Mahatma Gandhi NREGA (MGNREGA),Employment,100 days guaranteed employment per year for rural households,https://nrega.nic.in/,All States,Rural,18 years and above,All rural households,Unskilled laborer,Both,All
+7,PM Ujjwala Yojana,Energy,Free LPG connections to women from BPL families,https://pmuy.gov.in/,All States,Both,18 years and above,Below Poverty Line,All,Female,All
+8,PM Mudra Yojana,Finance,Loans up to Rs. 10 lakh for micro enterprises,https://mudra.org.in/,All States,Both,18 years and above,All income groups,Entrepreneur/Self-employed,Both,All
+9,Atal Pension Yojana (APY),Pension,Pension scheme for unorganized sector workers,https://npscra.nsdl.co.in/,All States,Both,18-40 years,All income groups,Unorganized sector workers,Both,All
+10,PM Suraksha Bima Yojana (PMSBY),Insurance,Accident insurance scheme for Rs. 2 lakh coverage,https://jansuraksha.gov.in/,All States,Both,18-70 years,All income groups,All,Both,All
+11,PM Jeevan Jyoti Bima Yojana (PMJJBY),Insurance,Life insurance scheme providing Rs. 2 lakh coverage,https://jansuraksha.gov.in/,All States,Both,18-50 years,All income groups,All,Both,All
+12,Sukanya Samriddhi Yojana,Savings,Savings scheme for girl child education and marriage,Post Office/Bank branches,All States,Both,0-10 years (girl child),All income groups,Parents/Guardians,Female,All
+13,PM Fasal Bima Yojana,Agriculture,Crop insurance scheme for farmers,https://pmfby.gov.in/,All States,Rural,18 years and above,All farmer categories,Farmer,Both,All
+14,PM Krishi Sinchai Yojana (PMKSY),Agriculture,Irrigation support and water conservation for farmers,State Agriculture Departments,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+15,Digital India,Technology,Digital transformation initiative for e-governance and digital literacy,https://digitalindia.gov.in/,All States,Both,All ages,All income groups,All,Both,All
+16,Swachh Bharat Mission,Sanitation,Clean India mission for sanitation and waste management,https://swachhbharatmission.gov.in/,All States,Both,All ages,All income groups,All,Both,All
+17,PM Kaushal Vikas Yojana (PMKVY),Skill Development,Skill development and training for youth,https://pmkvyofficial.org/,All States,Both,18-35 years,All income groups,Students/Unemployed youth,Both,All
+18,Stand-Up India,Entrepreneurship,Loans for SC/ST and women entrepreneurs,https://standupmitra.in/,All States,Both,18 years and above,All income groups,Entrepreneur,SC/ST/Women,SC/ST and Women
+19,Startup India,Entrepreneurship,Support for startups and innovation ecosystem,https://startupindia.gov.in/,All States,Both,18 years and above,All income groups,Entrepreneur,Both,All
+20,Beti Bachao Beti Padhao,Girl Child Welfare,Campaign for girl child education and empowerment,State/District offices,All States,Both,0-18 years (girl child),All income groups,Parents/Guardians,Female,All
+21,PM Matritva Vandana Yojana,Maternity,Cash incentive for pregnant and lactating women,Anganwadi Centers,All States,Both,18-45 years (pregnant women),All income groups,Pregnant/Lactating women,Female,All
+22,PM Vaya Vandana Yojana,Pension,Pension scheme for senior citizens,LIC offices,All States,Both,60 years and above,All income groups,Senior Citizens,Both,All
+23,PM Garib Kalyan Anna Yojana,Food Security,Free food grains distribution,Fair Price Shops,All States,Both,All ages,Below Poverty Line,All,Both,All
+24,Ayushman Bharat Health and Wellness Centers,Healthcare,Comprehensive primary healthcare services,PHCs and CHCs,All States,Both,All ages,All income groups,All,Both,All
+25,National Pension System (NPS),Pension,Voluntary pension system for all citizens,https://npstrust.org.in/,All States,Both,18-65 years,All income groups,All,Both,All
+26,PM SVANidhi,Urban Development,Working capital loans for street vendors,https://pmsvanidhi.mohua.gov.in/,All States,Urban,18 years and above,Street vendors,Street vendor,Both,All
+27,PM Vishwakarma Yojana,MSME Development,Support for traditional artisans and craftspeople,https://pmvishwakarma.gov.in/,All States,Both,18 years and above,Traditional artisans,Artisan/Craftsperson,Both,All
+28,PM Matsya Sampada Yojana,Fisheries,Welfare measures for fisheries sector,https://pmmsy.dof.gov.in/,All States,Both,18 years and above,Fishermen,Fishermen,Both,All
+29,One Nation One Ration Card,Food Security,Portability of ration cards across states,Fair Price Shops,All States,Both,All ages,Below Poverty Line,All,Both,All
+30,Jal Jeevan Mission,Water,Tap water connection to every rural household,https://jaljeevanmission.gov.in/,All States,Rural,All ages,All income groups,All,Both,All
+31,PM Kusum Scheme,Agriculture,Solar pump installation for farmers,https://pmkusum.mnre.gov.in/,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+32,PM e-Bus Sewa,Urban Transport,Electric bus deployment in urban areas,State Transport Departments,All States,Urban,All ages,All income groups,All,Both,All
+33,Smart Cities Mission,Urban Development,Development of 100 smart cities,https://smartcities.gov.in/,100 selected cities,Urban,All ages,All income groups,All,Both,All
+34,PM Gati Shakti,Logistics,National master plan for multi-modal connectivity,Government Departments,All States,Both,All ages,All income groups,All,Both,All
+35,Atmanirbhar Bharat,Economic Development,Self-reliant India initiative with various sub-schemes,Various Government Portals,All States,Both,All ages,All income groups,All,Both,All
+36,UDAN (Regional Connectivity Scheme),Aviation,Affordable air connectivity to remote areas,https://udan-rcs.gov.in/,All States,Both,All ages,All income groups,All,Both,All
+37,PM Poshan Shakti Nirman,Nutrition,Nutrition support for school children,Schools and Anganwadis,All States,Both,0-18 years,All income groups,Students,Both,All
+38,PM Dakshta Yojana,Skill Development,Skill development for marginalized communities,https://msde.gov.in/,All States,Both,18-45 years,All income groups,Marginalized communities,Both,SC/ST/OBC/Minorities
+39,Khelo India,Sports,Sports infrastructure and talent development,https://kheloindia.gov.in/,All States,Both,8-25 years,All income groups,Athletes/Students,Both,All
+40,PM Shram Yogi Mandhan,Social Security,Pension scheme for unorganized workers,https://labour.gov.in/,All States,Both,18-40 years,Monthly income below Rs. 15000,Unorganized workers,Both,All
+41,Rashtriya Gram Swaraj Abhiyan,Rural Development,Strengthening Panchayati Raj institutions,https://rgsa.nic.in/,All States,Rural,All ages,All income groups,All,Both,All
+42,National Rural Livelihoods Mission,Skill Development,Skill development and self-employment in rural areas,https://aajeevika.gov.in/,All States,Rural,18 years and above,Below Poverty Line,Rural poor,Both,All
+43,PM Street Vendor's AtmaNirbhar Nidhi,Urban Development,Micro-credit for street vendors,https://pmsvanidhi.mohua.gov.in/,All States,Urban,18 years and above,Street vendors,Street vendor,Both,All
+44,Samagra Shiksha Abhiyan,Education,Holistic education from pre-school to class 12,State Education Departments,All States,Both,3-18 years,All income groups,Students,Both,All
+45,Mid Day Meal Scheme,Education,Free lunch for school children,Schools,All States,Both,6-14 years,All income groups,School children,Both,All
+46,National Health Mission,Healthcare,Strengthening healthcare delivery system,https://nhm.gov.in/,All States,Both,All ages,All income groups,All,Both,All
+47,Rashtriya Swasthya Bima Yojana,Healthcare,Health insurance for BPL families,State implementing agencies,All States,Both,All ages,Below Poverty Line,All,Both,All
+48,Indira Gandhi National Old Age Pension,Social Security,Pension for elderly BPL citizens,Panchayat/Municipal offices,All States,Both,60 years and above,Below Poverty Line,Senior Citizens,Both,All
+49,Indira Gandhi National Widow Pension,Social Security,Pension for widows in BPL category,Panchayat/Municipal offices,All States,Both,40 years and above,Below Poverty Line,Widows,Female,All
+50,Indira Gandhi National Disability Pension,Social Security,Pension for disabled persons in BPL category,Panchayat/Municipal offices,All States,Both,18 years and above,Below Poverty Line,Disabled persons,Both,All
+51,Kisan Credit Card,Agriculture,Credit facility for farmers,Banks and Cooperative societies,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+52,PM Annadata Aay Sanrakshan Abhiyan,Agriculture,Price support scheme for farmers,https://pmfme.mofpi.gov.in/,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+53,National Food Security Act,Food Security,Legal right to food for eligible households,Fair Price Shops,All States,Both,All ages,Below Poverty Line,All,Both,All
+54,Integrated Child Development Services,Child Development,Nutrition and health services for children and mothers,Anganwadi Centers,All States,Both,0-6 years and pregnant women,All income groups,Children and mothers,Both,All
+55,Sarva Shiksha Abhiyan,Education,Universal elementary education,Schools,All States,Both,6-14 years,All income groups,School children,Both,All
+56,National Programme for Education of Girls,Education,Education support for girls at elementary level,Schools,All States,Both,6-14 years (girls),All income groups,Girl students,Female,All
+57,Kasturba Gandhi Balika Vidyalaya,Education,Residential schools for girls from disadvantaged groups,State Education Departments,All States,Rural,10-14 years (girls),SC/ST/OBC/Muslim minorities,Girls from disadvantaged groups,Female,SC/ST/OBC/Minorities
+58,Rashtriya Madhyamik Shiksha Abhiyan,Education,Secondary education for all,State Education Departments,All States,Both,14-18 years,All income groups,Students,Both,All
+59,National Means-cum-Merit Scholarship,Education,Scholarship for economically weaker students,Schools,All States,Both,Class 8 students,Annual income below Rs. 1.5 lakh,Meritorious students,Both,All
+60,Post Matric Scholarship for SC Students,Education,Financial assistance for SC students in post-matric courses,State Social Welfare Departments,All States,Both,Above 10th class,Annual income below Rs. 2.5 lakh,SC students,Both,SC
+61,Post Matric Scholarship for ST Students,Education,Financial assistance for ST students in post-matric courses,State Tribal Welfare Departments,All States,Both,Above 10th class,Annual income below Rs. 2.5 lakh,ST students,Both,ST
+62,Merit-cum-Means Scholarship for Minorities,Education,Scholarship for minority community students,https://scholarships.gov.in/,All States,Both,Above 10th class,Annual income below Rs. 2 lakh,Minority students,Both,Minorities
+63,Central Sector Scholarship for College Students,Education,Merit-based scholarship for higher education,https://scholarships.gov.in/,All States,Both,Graduation and above,Annual income below Rs. 8 lakh,College students,Both,All
+64,PM Research Fellowship,Education,Fellowship for PhD students in premier institutions,https://pmrf.in/,All States,Both,PhD students,All income groups,Research scholars,Both,All
+65,National Fellowship for SC Students,Education,Fellowship for SC students pursuing MPhil/PhD,UGC/State Governments,All States,Both,MPhil/PhD students,All income groups,SC research scholars,Both,SC
+66,National Fellowship for ST Students,Education,Fellowship for ST students pursuing research,UGC/State Governments,All States,Both,MPhil/PhD students,All income groups,ST research scholars,Both,ST
+67,Maulana Azad National Fellowship,Education,Fellowship for minority students in research,UGC,All States,Both,MPhil/PhD students,All income groups,Minority research scholars,Both,Minorities
+68,Junior Research Fellowship,Education,Fellowship for qualified NET/GATE candidates,CSIR/UGC,All States,Both,NET/GATE qualified,All income groups,Research scholars,Both,All
+69,Inspire Fellowship,Education,Fellowship for pursuing PhD in science,https://online-inspire.gov.in/,All States,Both,PhD in Science,All income groups,Science research scholars,Both,All
+70,Kishore Vaigyanik Protsahan Yojana,Education,Fellowship for basic science research,https://kvpy.iisc.ernet.in/,All States,Both,Class 11 to PhD,All income groups,Science students,Both,All
+71,National Rural Health Mission,Healthcare,Healthcare delivery in rural areas,State Health Departments,All States,Rural,All ages,All income groups,All,Both,All
+72,National Urban Health Mission,Healthcare,Healthcare delivery in urban areas,State Health Departments,All States,Urban,All ages,All income groups,All,Both,All
+73,Janani Suraksha Yojana,Healthcare,Safe motherhood intervention,Health centers,All States,Both,Pregnant women,Below Poverty Line,Pregnant women,Female,All
+74,Janani Shishu Suraksha Karyakram,Healthcare,Free delivery and treatment for pregnant women and sick newborns,Government hospitals,All States,Both,Pregnant women and newborns,All income groups,Pregnant women and newborns,Both,All
+75,Mission Indradhanush,Healthcare,Universal immunization of children,Health centers,All States,Both,0-2 years,All income groups,Children,Both,All
+76,Pradhan Mantri Surakshit Matritva Abhiyan,Healthcare,Assured quality antenatal care,Health centers,All States,Both,Pregnant women,All income groups,Pregnant women,Female,All
+77,Rashtriya Bal Swasthya Karyakram,Healthcare,Child health screening and early intervention,Schools and Anganwadis,All States,Both,0-18 years,All income groups,Children,Both,All
+78,National Programme for Prevention of Cancer,Healthcare,Cancer prevention and early detection,Cancer centers,All States,Both,All ages,All income groups,All,Both,All
+79,National Programme for Prevention of Blindness,Healthcare,Prevention and control of blindness,Eye care centers,All States,Both,All ages,All income groups,All,Both,All
+80,National Mental Health Programme,Healthcare,Mental health services,Mental health centers,All States,Both,All ages,All income groups,All,Both,All
+81,National Tobacco Control Programme,Healthcare,Tobacco control and cessation,Health centers,All States,Both,All ages,All income groups,All,Both,All
+82,National Programme for Prevention of Deafness,Healthcare,Prevention and management of deafness,ENT centers,All States,Both,All ages,All income groups,All,Both,All
+83,National Vector Borne Disease Control Programme,Healthcare,Prevention and control of vector-borne diseases,Health centers,All States,Both,All ages,All income groups,All,Both,All
+84,Integrated Disease Surveillance Programme,Healthcare,Disease surveillance and outbreak response,Health departments,All States,Both,All ages,All income groups,All,Both,All
+85,National AIDS Control Programme,Healthcare,HIV/AIDS prevention and treatment,NACO centers,All States,Both,All ages,All income groups,All,Both,All
+86,Revised National Tuberculosis Control Programme,Healthcare,TB prevention and treatment,DOTS centers,All States,Both,All ages,All income groups,All,Both,All
+87,National Leprosy Eradication Programme,Healthcare,Leprosy detection and treatment,Health centers,All States,Both,All ages,All income groups,All,Both,All
+88,National Programme for Healthcare of Elderly,Healthcare,Healthcare services for elderly,Geriatric centers,All States,Both,60 years and above,All income groups,Senior citizens,Both,All
+89,Rashtriya Swasthya Bima Yojana Plus,Healthcare,Enhanced health insurance coverage,Insurance companies,All States,Both,All ages,Below Poverty Line,All,Both,All
+90,Employee State Insurance Scheme,Healthcare,Medical care for organized sector workers,ESI dispensaries,All States,Both,All ages,Monthly wages up to Rs. 25000,Organized sector workers,Both,All
+91,Central Government Health Scheme,Healthcare,Medical care for central government employees,CGHS centers,All States,Both,All ages,Central government employees,Government employees,Both,All
+92,Ex-servicemen Contributory Health Scheme,Healthcare,Healthcare for ex-servicemen,Military hospitals,All States,Both,All ages,Ex-servicemen,Ex-servicemen,Both,All
+93,Rashtriya Krishi Vikas Yojana,Agriculture,Agriculture development program,State Agriculture Departments,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+94,National Mission for Sustainable Agriculture,Agriculture,Sustainable agriculture practices,State Agriculture Departments,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+95,National Food Security Mission,Agriculture,Food grain production enhancement,State Agriculture Departments,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+96,National Mission on Oilseeds and Oil Palm,Agriculture,Oilseed production enhancement,State Agriculture Departments,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+97,National Horticulture Mission,Agriculture,Horticulture development,State Horticulture Departments,All States,Rural,18 years and above,Horticulture farmers,Farmer,Both,All
+98,National Bamboo Mission,Agriculture,Bamboo development and promotion,State Forest Departments,All States,Rural,18 years and above,Bamboo growers,Farmer,Both,All
+99,National Mission on Medicinal Plants,Agriculture,Medicinal plant cultivation,State Agriculture Departments,All States,Rural,18 years and above,Medicinal plant growers,Farmer,Both,All
+100,National Livestock Mission,Agriculture,Livestock development,State Animal Husbandry Departments,All States,Rural,18 years and above,Livestock farmers,Farmer,Both,All
+101,Blue Revolution - Integrated Development of Fisheries,Fisheries,Fisheries development,State Fisheries Departments,All States,Both,18 years and above,Fishermen,Fishermen,Both,All
+102,National Mission for Clean Ganga,Environment,Ganga river rejuvenation,https://nmcg.nic.in/,Ganga basin states,Both,All ages,All income groups,All,Both,All
+103,National Green Mission,Environment,Afforestation and forest conservation,State Forest Departments,All States,Both,All ages,All income groups,All,Both,All
+104,National Solar Mission,Energy,Solar energy promotion,https://mnre.gov.in/,All States,Both,18 years and above,All income groups,All,Both,All
+105,National Wind Energy Mission,Energy,Wind energy development,https://mnre.gov.in/,All States,Both,18 years and above,Wind energy developers,Entrepreneur,Both,All
+106,National Biofuel Mission,Energy,Biofuel production and promotion,https://mnre.gov.in/,All States,Both,18 years and above,Biofuel producers,Entrepreneur,Both,All
+107,National Water Mission,Water,Water conservation and management,State Water Departments,All States,Both,All ages,All income groups,All,Both,All
+108,National Mission on Strategic Knowledge for Climate Change,Environment,Climate change research and knowledge,Research institutions,All States,Both,All ages,Researchers,Research scholars,Both,All
+109,National Mission for Sustaining Himalayan Ecosystem,Environment,Himalayan ecosystem conservation,Himalayan states,Both,All ages,All income groups,All,Both,All
+110,National Mission for Green India,Environment,Forest cover enhancement,State Forest Departments,All States,Both,All ages,All income groups,All,Both,All
+111,National Mission on Enhanced Energy Efficiency,Energy,Energy efficiency promotion,https://eeindia.gov.in/,All States,Both,All ages,Industries and consumers,All,Both,All
+112,Perform Achieve and Trade Scheme,Energy,Energy efficiency for industries,https://eeindia.gov.in/,All States,Industrial,All ages,Large energy-intensive industries,Industries,Both,All
+113,National LED Programme,Energy,LED distribution for energy efficiency,State Electricity Boards,All States,Both,All ages,All income groups,All,Both,All
+114,Street Lighting National Programme,Energy,LED street lighting,Urban Local Bodies,All States,Urban,All ages,All income groups,All,Both,All
+115,National Programme for LED Home Lighting,Energy,LED home lighting distribution,State implementing agencies,All States,Both,All ages,All income groups,All,Both,All
+116,Grid Connected Rooftop Solar Programme,Energy,Rooftop solar installation,https://solarrooftop.gov.in/,All States,Both,18 years and above,All income groups,House/building owners,Both,All
+117,Off-Grid Solar Programme,Energy,Off-grid solar solutions for remote areas,https://mnre.gov.in/,All States,Rural,All ages,Remote area residents,All,Both,All
+118,Solar Park Scheme,Energy,Large scale solar power generation,https://mnre.gov.in/,All States,Both,18 years and above,Solar developers,Entrepreneur,Both,All
+119,Canal Top Solar Programme,Energy,Solar panels on irrigation canals,State Irrigation Departments,All States,Rural,18 years and above,Irrigation departments,Government agencies,Both,All
+120,Kisan Urja Suraksha evam Utthaan Mahabhiyan,Energy,Solar agriculture pumps for farmers,https://pmkusum.mnre.gov.in/,All States,Rural,18 years and above,All farmers,Farmer,Both,All
+121,National Rural Employment Guarantee Act,Employment,100 days employment guarantee,https://nrega.nic.in/,All States,Rural,18 years and above,Rural households,Unskilled laborer,Both,All
+122,Deen Dayal Upadhyaya Grameen Kaushalya Yojana,Skill Development,Skill training for rural youth,https://ddugky.gov.in/,All States,Rural,15-35 years,Rural poor youth,Rural youth,Both,All
+123,Pradhan Mantri Kaushal Kendra,Skill Development,Skill development centers,https://pmkvyofficial.org/,All States,Both,15-45 years,All income groups,Youth seeking skills,Both,All
+124,Recognition of Prior Learning,Skill Development,Certification of existing skills,Skill development centers,All States,Both,18-45 years,All income groups,Skilled workers,Both,All
+125,Jan Shikshan Sansthan,Education,Non-formal education for adults,Jan Shikshan Sansthan centers,All States,Both,15 years and above,Educationally disadvantaged,Adult learners,Both,All
+126,National Programme for Education of Girls at Elementary Level,Education,Girls education at elementary level,Schools,All States,Both,6-14 years (girls),All income groups,Girl students,Female,All
+127,Rashtriya Uchchatar Shiksha Abhiyan,Education,Higher education improvement,Universities and colleges,All States,Both,18 years and above,All income groups,Higher education students,Both,All
+128,Impacting Research Innovation and Technology,Education,Research and innovation in higher education,Higher education institutions,All States,Both,18 years and above,Research students,Research scholars,Both,All
+129,Study in India Programme,Education,Attracting international students to India,Universities and colleges,All States,Both,18 years and above,International students,International students,Both,All
+130,Scheme for Promotion of Academic and Research Collaboration,Education,International academic collaboration,Higher education institutions,All States,Both,18 years and above,Academic researchers,Academic staff,Both,All
+131,Global Initiative of Academic Networks,Education,Global partnerships in higher education,Universities,All States,Both,18 years and above,Academic community,Academic staff,Both,All
+132,Pradhan Mantri Innovative Learning Programme,Education,Innovation in school education,Schools,All States,Both,8-18 years,Talented students,Students,Both,All
+133,Ek Bharat Shreshtha Bharat,Education,Cultural exchange between states,Educational institutions,All States,Both,5-25 years,All income groups,Students,Both,All
+134,Rashtriya Avishkar Abhiyan,Education,Innovation and experiential learning in schools,Schools,All States,Both,6-18 years,All income groups,School students,Both,All
+135,National Initiative for School Heads and Teachers Holistic Advancement,Education,Teacher training and development,Schools,All States,Both,Teachers,Government teachers,Teachers,Both,All
+136,PM eVIDYA Programme,Education,Digital education initiative,Online platforms,All States,Both,5-18 years,All income groups,Students,Both,All
+137,SWAYAM (Study Webs of Active-Learning for Young Aspiring Minds),Education,Online learning platform,https://swayam.gov.in/,All States,Both,14 years and above,All income groups,Students and learners,Both,All
+138,National Digital Library of India,Education,Digital library of educational resources,https://ndl.iitkgp.ac.in/,All States,Both,All ages,All income groups,Students and researchers,Both,All
+139,DIKSHA (Digital Infrastructure for Knowledge Sharing),Education,Digital platform for teachers,https://diksha.gov.in/,All States,Both,Teachers,Government teachers,Teachers,Both,All
+140,National Repository of Open Educational Resources,Education,Open educational resources platform,https://nroer.gov.in/,All States,Both,5-18 years,All income groups,Students and teachers,Both,All
+141,e-Pathshala,Education,Digital textbooks and resources,https://epathshala.nic.in/,All States,Both,6-18 years,All income groups,School students,Both,All
+142,Virtual Labs,Education,Virtual laboratory experiments,https://vlab.co.in/,All States,Both,15-25 years,All income groups,Science students,Both,All
+143,Spoken Tutorial,Education,Self-learning through audio-video tutorials,https://spoken-tutorial.org/,All States,Both,15 years and above,All income groups,Learners,Both,All
+144,e-Yantra,Education,Robotics and embedded systems education,https://e-yantra.org/,All States,Both,16-25 years,Engineering students,Engineering students,Both,All
+145,National Mission on Education through ICT,Education,ICT in education,Educational institutions,All States,Both,15 years and above,All income groups,Students and teachers,Both,All
+146,Operation Digital Board,Education,Digital boards in classrooms,Schools,All States,Both,6-18 years,All income groups,School students,Both,All
+147,PM Vidyalaxmi,Education,Educational loan scheme,Banks,All States,Both,18 years and above,All income groups,Higher education students,Both,All
+148,Interest Subsidy Scheme for Educational Loans,Education,Interest subsidy on educational loans,Banks,All States,Both,18 years and above,Annual income below Rs. 4.5 lakh,Students from economically weaker sections,Both,All
+149,National Overseas Scholarship,Education,Scholarships for overseas studies,https://scholarships.gov.in/,All States,Both,35 years and below,Annual income below Rs. 6 lakh,SC/ST/OBC/Minority students,Both,SC/ST/OBC/Minorities
+150,Dr. A.P.J. Abdul Kalam IGNITE Awards,Education,Innovation awards for school students,https://ignite.nif.org.in/,All States,Both,Class 6-12 students,All income groups,School students,Both,All
+151,Tata Group Education Initiatives,Education,Private sector education support,https://www.tata.com/,All States,Both,5-25 years,All income groups,Students,Both,All
+152,Reliance Foundation Education Initiatives,Education,Private education and skill development,https://reliancefoundation.org/,All States,Both,5-25 years,All income groups,Students,Both,All
+153,Infosys Foundation Education Programs,Education,Educational support and infrastructure,https://www.infosys.com/infosys-foundation/,All States,Both,5-25 years,All income groups,Students,Both,All
+154,Wipro Foundation Education Initiatives,Education,Quality education for underprivileged,https://www.wipro.org/,All States,Both,5-18 years,Underprivileged children,Students from low-income families,Both,All
+155,HCL Foundation Education Programs,Education,Technology-enabled education,https://www.hclfoundation.org/,All States,Both,5-18 years,All income groups,Students,Both,All
+156,Microsoft India Education Initiatives,Education,Digital skills and computer literacy,https://www.microsoft.com/en-in/csr/,All States,Both,8-25 years,All income groups,Students and teachers,Both,All
+157,Google India Education Programs,Education,Digital literacy and skills,https://grow.google/intl/en_in/,All States,Both,10-30 years,All income groups,Students and teachers,Both,All
+158,IBM India Corporate Social Responsibility,Education,STEM education and skills,https://www.ibm.com/ibm/responsibility/corporateservicecorps/,All States,Both,15-30 years,All income groups,Students,Both,All
+159,Amazon India Education Initiatives,Education,Computer science and coding education,Amazon offices,All States,Both,8-18 years,All income groups,School students,Both,All
+160,Flipkart Foundation Education Programs,Education,Quality education for underserved communities,https://www.flipkart.com/pages/flipkart-foundation,All States,Both,5-18 years,Underserved communities,Students,Both,All
+161,Mahindra Group Education CSR,Education,Educational infrastructure and scholarships,https://www.mahindra.com/sustainability/community,All States,Both,5-25 years,All income groups,Students,Both,All
+162,Larsen & Toubro Education Initiatives,Education,Technical and vocational education,https://www.larsentoubro.com/corporate/sustainability/csr/,All States,Both,15-25 years,All income groups,Students,Both,All
+163,ITC Limited Education Programs,Education,Primary education and women's literacy,https://www.itcportal.com/sustainability/social-investments.aspx,All States,Both,5-35 years,Rural and underserved,Students and women,Both,All
+164,Bajaj Group Education CSR,Education,Educational support and scholarships,https://www.bajajfinserv.in/about-us/csr,All States,Both,5-25 years,All income groups,Students,Both,All
+165,Aditya Birla Group Education Initiatives,Education,Education and skill development,https://www.adityabirla.com/sustainability/csr,All States,Both,5-25 years,All income groups,Students,Both,All
+166,JSW Foundation Education Programs,Education,Quality education and infrastructure,https://www.jsw.in/foundation,All States,Both,5-18 years,Underserved communities,Students,Both,All
+167,ICICI Foundation Education Initiatives,Education,Primary education and teacher training,https://www.icicibank.com/about-us/csr,All States,Both,5-18 years,Rural and underserved,Students and teachers,Both,All
+168,HDFC Bank Education CSR,Education,Financial literacy and education support,https://www.hdfcbank.com/aboutus/csr/holistic-rural-development,All States,Both,5-25 years,All income groups,Students,Both,All
+169,State Bank of India Foundation Education,Education,Educational scholarships and support,SBI branches,All States,Both,10-25 years,All income groups,Students,Both,All
+170,Bharti Foundation Education Programs,Education,Quality education for underserved children,https://www.bharti.com/bharti-foundation,All States,Both,5-18 years,Underserved communities,Students,Both,All
+171,Dr. Reddy's Foundation Education Initiatives,Education,Health education and awareness,https://www.drreddys.com/dr-reddys-foundation/,All States,Both,5-18 years,All income groups,Students,Both,All
+172,Sun Pharmaceutical CSR Education,Education,Healthcare education and skills,https://www.sunpharma.com/csr,All States,Both,15-30 years,All income groups,Healthcare students,Both,All
+173,Cipla Foundation Education Programs,Education,Health and education support,https://www.cipla.com/sustainability/cipla-foundation,All States,Both,5-25 years,All income groups,Students,Both,All
+174,Lupin Foundation Education Initiatives,Education,Educational support for rural areas,https://www.lupin.com/csr/,All States,Rural,5-18 years,Rural communities,Students,Both,All
+175,Asian Paints Foundation Education,Education,Education infrastructure and support,https://www.asianpaints.com/about-asian-paints/csr.html,All States,Both,5-18 years,All income groups,Students,Both,All
+176,Godrej Group Education CSR,Education,Environmental education and sustainability,https://www.godrej.com/godrej-and-good,All States,Both,8-25 years,All income groups,Students,Both,All
+177,Hindustan Unilever Foundation Education,Education,Health hygiene and education,https://www.hul.co.in/planet-and-society/,All States,Both,5-18 years,All income groups,Students,Both,All
+178,Nestle India Education Programs,Education,Nutrition education and awareness,https://www.nestle.in/csv,All States,Both,5-15 years,All income groups,School children,Both,All
+179,PepsiCo India Education Initiatives,Education,Agriculture and water conservation education,https://www.pepsico.co.in/sustainability,All States,Rural,10-25 years,Farming communities,Students and farmers,Both,All
+180,Coca-Cola India Education CSR,Education,Water conservation and education,https://www.coca-colaindia.com/sustainability,All States,Both,8-18 years,All income groups,Students,Both,All
+181,Unilever Sustainable Living Plan Education,Education,Sustainability and environmental education,https://www.unilever.com/sustainable-living/,All States,Both,10-25 years,All income groups,Students,Both,All
+182,Ford Foundation India Education,Education,Social justice and education equity,https://www.fordfoundation.org/regions/india/,All States,Both,5-25 years,Marginalized communities,Students,Both,All
+183,Bill & Melinda Gates Foundation India,Education,Education technology and innovation,https://www.gatesfoundation.org/our-work/places/south-asia/india,All States,Both,5-18 years,All income groups,Students,Both,All
+184,British Council India Education,Education,English language and skills development,https://www.britishcouncil.in/,All States,Both,10-30 years,All income groups,Students and professionals,Both,All
+185,United States-India Educational Foundation,Education,Higher education exchange programs,https://www.usief.org.in/,All States,Both,18-35 years,All income groups,Students and researchers,Both,All
+186,Indo-German Chamber of Commerce Education,Education,Technical and vocational training,https://www.indo-german.com/,All States,Both,18-30 years,All income groups,Technical students,Both,All
+187,Japan International Cooperation Agency India,Education,Technical cooperation in education,https://www.jica.go.jp/india/,All States,Both,15-30 years,All income groups,Students,Both,All
+188,Korean International Cooperation Agency India,Education,ICT and development cooperation,https://www.koica.go.kr/,All States,Both,15-30 years,All income groups,Students,Both,All
+189,Australian Aid Education Programs,Education,Higher education and research collaboration,Australian missions,All States,Both,18-35 years,All income groups,Students and researchers,Both,All
+190,Canadian International Development Agency India,Education,Education and skills development,Canadian missions,All States,Both,15-30 years,All income groups,Students,Both,All
+191,World Bank Education Projects India,Education,Education system strengthening,https://www.worldbank.org/en/country/india,All States,Both,5-25 years,All income groups,Students,Both,All
+192,Asian Development Bank Education India,Education,Education infrastructure and quality,https://www.adb.org/countries/india/main,All States,Both,5-25 years,All income groups,Students,Both,All
+193,UNICEF India Education Programs,Education,Quality education for all children,https://www.unicef.org/india/,All States,Both,0-18 years,All income groups,Children,Both,All
+194,UNESCO India Education Initiatives,Education,Education for sustainable development,https://en.unesco.org/countries/india,All States,Both,5-25 years,All income groups,Students,Both,All
+195,Save the Children India Education,Education,Quality education for disadvantaged children,https://www.savethechildren.in/,All States,Both,3-18 years,Disadvantaged children,Children,Both,All
+196,Oxfam India Education Programs,Education,Education for marginalized communities,https://www.oxfamindia.org/,All States,Both,5-25 years,Marginalized communities,Students,Both,All
+197,Care India Education Initiatives,Education,Girls education and empowerment,https://www.careindia.org/,All States,Both,5-18 years (girls),All income groups,Girl students,Female,All
+198,Plan International India Education,Education,Girls education and child rights,https://plan-international.org/india/,All States,Both,3-18 years,All income groups,Children,Both,All
+199,World Vision India Education Programs,Education,Quality education for vulnerable children,https://www.worldvision.in/,All States,Both,3-18 years,Vulnerable children,Children,Both,All
+200,ChildFund India Education Support,Education,Education for underprivileged children,https://www.childfundindia.org/,All States,Both,3-18 years,Underprivileged children,Children,Both,All

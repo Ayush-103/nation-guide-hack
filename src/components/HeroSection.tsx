@@ -1,4 +1,6 @@
-import { CheckCircle, Users, Clock, Shield } from "lucide-react";
+import { CheckCircle, Users, Clock, Shield, ArrowRight } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 
 export const HeroSection = () => {
   return (
@@ -51,6 +53,19 @@ export const HeroSection = () => {
                   <p className="text-sm text-muted-foreground">Apply directly on official government websites</p>
                 </div>
               </div>
+            </div>
+
+            {/* CTA Button */}
+            <div className="pt-4">
+              <Link to="/find-schemes">
+                <Button 
+                  size="lg" 
+                  className="bg-gradient-primary hover:bg-gradient-primary/90 text-primary-foreground font-semibold text-lg px-8 py-4 shadow-lg hover:shadow-xl transition-all group"
+                >
+                  Find My Schemes
+                  <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
+                </Button>
+              </Link>
             </div>
           </div>
 

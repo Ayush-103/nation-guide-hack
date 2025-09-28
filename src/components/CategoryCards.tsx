@@ -8,6 +8,7 @@ import {
   ArrowRight 
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 
 const categories = [
   {
@@ -16,7 +17,8 @@ const categories = [
     icon: Heart,
     color: "text-red-500",
     bgColor: "bg-red-50 dark:bg-red-950/20",
-    description: "Medical insurance, health checkups, maternal care"
+    description: "Medical insurance, health checkups, maternal care",
+    path: "/healthcare"
   },
   {
     title: "Education",
@@ -24,7 +26,8 @@ const categories = [
     icon: GraduationCap,
     color: "text-blue-500",
     bgColor: "bg-blue-50 dark:bg-blue-950/20",
-    description: "Scholarships, skill development, vocational training"
+    description: "Scholarships, skill development, vocational training",
+    path: "/education"
   },
   {
     title: "Agriculture",
@@ -32,7 +35,8 @@ const categories = [
     icon: Wheat,
     color: "text-green-500", 
     bgColor: "bg-green-50 dark:bg-green-950/20",
-    description: "Crop insurance, subsidies, farming equipment"
+    description: "Crop insurance, subsidies, farming equipment",
+    path: "/agriculture"
   },
   {
     title: "Women",
@@ -40,7 +44,8 @@ const categories = [
     icon: Users,
     color: "text-pink-500",
     bgColor: "bg-pink-50 dark:bg-pink-950/20", 
-    description: "Empowerment programs, safety, entrepreneurship"
+    description: "Empowerment programs, safety, entrepreneurship",
+    path: "/women"
   },
   {
     title: "Business",
@@ -48,7 +53,8 @@ const categories = [
     icon: Briefcase,
     color: "text-purple-500",
     bgColor: "bg-purple-50 dark:bg-purple-950/20",
-    description: "Startup funding, MSME support, business loans"
+    description: "Startup funding, MSME support, business loans",
+    path: "/business"
   },
   {
     title: "Employment",
@@ -56,7 +62,8 @@ const categories = [
     icon: UserCheck,
     color: "text-orange-500",
     bgColor: "bg-orange-50 dark:bg-orange-950/20",
-    description: "Job guarantee, skill training, unemployment benefits"
+    description: "Job guarantee, skill training, unemployment benefits",
+    path: "/employment"
   }
 ];
 
@@ -78,9 +85,10 @@ export const CategoryCards = () => {
           {categories.map((category) => {
             const IconComponent = category.icon;
             return (
-              <div
+              <Link
                 key={category.title}
-                className="group bg-card border border-border rounded-2xl p-6 card-hover cursor-pointer"
+                to={category.path}
+                className="group bg-card border border-border rounded-2xl p-6 card-hover cursor-pointer block"
               >
                 <div className="flex items-start justify-between mb-4">
                   <div className={`p-3 rounded-xl ${category.bgColor}`}>
@@ -104,7 +112,7 @@ export const CategoryCards = () => {
                     <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
                   </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>
